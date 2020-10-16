@@ -13,7 +13,7 @@ Make your first Pull Request and earn a free tee from GitHub!
 </p>
 # Welcome to GitHub!
 
-## This project is perfect for your first pull request
+## This project is perfect for your first pull request.
 
 ## Instructions-
 
